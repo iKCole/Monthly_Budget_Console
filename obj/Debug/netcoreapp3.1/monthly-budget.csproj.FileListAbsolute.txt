@@ -1,0 +1,11 @@
+/Users/ike/Documents/PF1/TryIt/monthly-budget/bin/Debug/netcoreapp3.1/monthly-budget
+/Users/ike/Documents/PF1/TryIt/monthly-budget/bin/Debug/netcoreapp3.1/monthly-budget.deps.json
+/Users/ike/Documents/PF1/TryIt/monthly-budget/bin/Debug/netcoreapp3.1/monthly-budget.runtimeconfig.json
+/Users/ike/Documents/PF1/TryIt/monthly-budget/bin/Debug/netcoreapp3.1/monthly-budget.runtimeconfig.dev.json
+/Users/ike/Documents/PF1/TryIt/monthly-budget/bin/Debug/netcoreapp3.1/monthly-budget.dll
+/Users/ike/Documents/PF1/TryIt/monthly-budget/bin/Debug/netcoreapp3.1/monthly-budget.pdb
+/Users/ike/Documents/PF1/TryIt/monthly-budget/obj/Debug/netcoreapp3.1/monthly-budget.csprojAssemblyReference.cache
+/Users/ike/Documents/PF1/TryIt/monthly-budget/obj/Debug/netcoreapp3.1/monthly-budget.AssemblyInfoInputs.cache
+/Users/ike/Documents/PF1/TryIt/monthly-budget/obj/Debug/netcoreapp3.1/monthly-budget.AssemblyInfo.cs
+/Users/ike/Documents/PF1/TryIt/monthly-budget/obj/Debug/netcoreapp3.1/monthly-budget.dll
+/Users/ike/Documents/PF1/TryIt/monthly-budget/obj/Debug/netcoreapp3.1/monthly-budget.pdb
